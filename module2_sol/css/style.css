@@ -10,6 +10,7 @@ h2 {
 	width: 33.3%;
 	margin: auto;
 	height: 220px;
+	overflow: auto;
 }
 .logo {
 	font-family: Comic Sans MS;
@@ -145,7 +146,6 @@ h2 {
 
     .col-md-6
     {
-        /* width: 50%; */
         width: 49%;
     }
 
@@ -176,7 +176,7 @@ h2 {
 
     .col-md-12
     {
-        width: 100%;
+        width: 99%;
     }
 }
 
